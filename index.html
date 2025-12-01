@@ -1,13 +1,40 @@
 <!DOCTYPE html>
 
 <html>
-  <head>
-    <title>CSK003a by NSL</title>
-  </head>
-  
-  <body>
-    <h1>Welcome to Cardano Starter Kit #003!</h1>
-    <p>Where we party like it's 1999</p>
-  </body>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>CSK003a by NSL</title>
+
+  <style>
+   p
+   {
+      color: purple;
+      font-family: "Arimo", sans-serif;
+    }
+    
+    
+.arimo {
+  font-family: "Arimo", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+  </style>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Arimo&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+  <h1>Welcome to Cardano Starter Kit #003!</h1>
+  <p class="arimo">Where we party like it's <span id="myYear"> </span></p>
+
+  <script>
+    var year = 2010;
+    document.getElementById("myYear").innerHTML = year;
+  </script>
+</body>
   
 </html>
