@@ -21,3 +21,6 @@
 - Figure out how to [add a picture of Prince to your page](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/add-images-to-your-website).
 - Figure out how to [put some links on your page](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/link-to-external-pages-with-anchor-elements).
 - You might even want to [embed a video from YouTube](https://support.google.com/youtube/answer/171780?hl=en)!
+
+## Today
+-2025-12-01 - editing at [this code pen](https://codepen.io/newman5/pen/GgZBdPG?editors=1000)
